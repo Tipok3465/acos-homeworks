@@ -1,0 +1,16 @@
+track=1,arrival,12
+track=2,north,6
+track=3,south,6
+locomotive=1,6.0
+locomotive=2,5.0
+route=1,1,2,90.0,2
+route=2,1,3,75.0,1
+wagon=1,10,north
+wagon=2,10,south
+wagon=3,11,north
+arrival=10,0,1
+arrival=11,3,1
+requirement=101,north,2,2
+requirement=102,south,1,3
+timing=2,2,4
+strategy=most_free_capacity
