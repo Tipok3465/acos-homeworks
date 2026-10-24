@@ -1,0 +1,8 @@
+station
+station-cond
+station-cond-fail
+tests-cond
+tests
+station-fail
+*.o
+*.log

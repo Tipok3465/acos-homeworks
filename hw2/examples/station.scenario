@@ -1,0 +1,13 @@
+track=1,arrival,8
+track=2,north,4
+track=3,south,4
+locomotive=1,5.0
+route=1,1,2,100.0,2
+route=2,1,3,80.0,1
+wagon=1,1,north
+wagon=2,1,south
+arrival=1,0,1
+requirement=101,north,1,2
+requirement=102,south,1,3
+timing=2,2,4
+strategy=first_fit
